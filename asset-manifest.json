@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-radiohead-memory-game/static/css/main.1515abf8.chunk.css",
+    "main.js": "/react-radiohead-memory-game/static/js/main.cd850ed9.chunk.js",
+    "main.js.map": "/react-radiohead-memory-game/static/js/main.cd850ed9.chunk.js.map",
+    "runtime-main.js": "/react-radiohead-memory-game/static/js/runtime-main.06f58ee8.js",
+    "runtime-main.js.map": "/react-radiohead-memory-game/static/js/runtime-main.06f58ee8.js.map",
+    "static/js/2.2f723c20.chunk.js": "/react-radiohead-memory-game/static/js/2.2f723c20.chunk.js",
+    "static/js/2.2f723c20.chunk.js.map": "/react-radiohead-memory-game/static/js/2.2f723c20.chunk.js.map",
+    "index.html": "/react-radiohead-memory-game/index.html",
+    "precache-manifest.a03dafafebc3b385c40bda3d856d9e6a.js": "/react-radiohead-memory-game/precache-manifest.a03dafafebc3b385c40bda3d856d9e6a.js",
+    "service-worker.js": "/react-radiohead-memory-game/service-worker.js",
+    "static/css/main.1515abf8.chunk.css.map": "/react-radiohead-memory-game/static/css/main.1515abf8.chunk.css.map",
+    "static/js/2.2f723c20.chunk.js.LICENSE.txt": "/react-radiohead-memory-game/static/js/2.2f723c20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06f58ee8.js",
+    "static/js/2.2f723c20.chunk.js",
+    "static/css/main.1515abf8.chunk.css",
+    "static/js/main.cd850ed9.chunk.js"
+  ]
+}
